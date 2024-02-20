@@ -1,0 +1,5 @@
+Chrome
+https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm
+
+Firefox
+https://addons.mozilla.org/id/firefox/addon/clipboard-inserter/
